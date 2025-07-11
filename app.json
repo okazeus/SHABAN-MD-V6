@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "name": "Okazeus",
+  "description": "lol",
   "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": [okazeus"],
   "success_url": "/",
 
     "stack": "container",
@@ -46,7 +46,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "private"
+      "value": "public"
       
     },
     
